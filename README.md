@@ -35,3 +35,6 @@ Predictions will be generated also in the root directory:
 - `output_A.csv`
 - `output_B.csv`
 
+## Dependencies
+
+See `requirements.txt` for required packages. The code for the CHIP model is included in the directory `CHIP-Network-Model`, which is added to the system path when loading `chip_features.py`.
